@@ -11,9 +11,7 @@ Passionate about building scalable backend systems, cloud-native applications, a
 ### 🛠 Skills
 
 **Cloud & DevOps:** AWS (EC2, S3, Lambda, ECS, IAM, SES), Docker, GitHub Actions (CI/CD), Terraform
-
 **Backend Development:** Node.js, Express.js, NestJS, FastAPI, REST APIs
-
 **Databases:** PostgreSQL, MongoDB, SQL
 **Programming Languages:** Python, JavaScript, C++, Java
 **Frontend & Tools:** React, Next.js, TailwindCSS, Git
