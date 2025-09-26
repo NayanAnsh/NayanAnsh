@@ -1,32 +1,47 @@
-Hi 👋 My name is Nayan Ansh Singh
-=================================
+# Hi 👋 My name is Nayan Ansh Singh
 
-Web devloper and AI&Ml Enthusiast
----------------------------------
+## Backend Developer | Cloud & DevOps Enthusiast
 
-Passionate technology enthusiast with a focus on full-stack web development and an active pursuit of knowledge in machine learning and artificial intelligence.
+Passionate about building scalable backend systems, cloud-native applications, and automating deployments with DevOps practices. Experienced in designing secure APIs, optimizing cloud costs, and implementing robust authentication systems. Always exploring the intersection of backend engineering and cloud infrastructure.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [nayanansh@gmail.com](mailto:nayanansh@gmail.com)
-* 🧠  I'm learning Bun, T3 Stack, Tensorflow
-* 🤝  I'm open to collaborating on Web development project and machine learning projects
+* 🌍  Based in India
+* ✉️  Reach me at [nayanansh@gmail.com](mailto:nayanansh@gmail.com)
+* 🤝  Open to collaborating on backend, cloud, and DevOps projects
 
-### Skills
+### 🛠 Skills
 
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, ECS, IAM, SES), Docker, GitHub Actions (CI/CD), Terraform
+**Backend Development:** Node.js, Express.js, NestJS, FastAPI, REST APIs
+**Databases:** PostgreSQL, MongoDB, SQL
+**Programming Languages:** Python, JavaScript, C++, Java
+**Frontend & Tools:** React, Next.js, TailwindCSS, Git
+
+### 💼 Experience
+
+* **Xlancr (Backend Developer)** – Integrated RazorPay payments, built Role-Based Access Control, optimized AWS S3 costs (20% reduction).
+* **Xlancr (Intern)** – Integrated OCR with FastAPI, expanded file processing support.
+* **MoonFinance (Intern)** – Built REST APIs with Next.js/MongoDB, implemented authentication with NextAuth.js.
+
+### 🚀 Projects
+
+* **ML-Powered Rental Ecosystem (Caterpillar Hackathon Winner – 1st/100+)**
+  FastAPI + Express.js backend, AWS SES notifications, IAM role security, anomaly detection system.
+
+* **CI/CD Pipeline for Node.js App**
+  Automated deployments with GitHub Actions + Docker to AWS ECS/ECR with load balancing and auto-scaling.
+
+* **Real-Time User Interaction Analytics (Kafka Viz)**
+  Built a Kafka + WebSockets + Redis powered real-time analytics dashboard with React + NestJS.
+
+### 📜 Certifications
+
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Cloud Practitioner
+
+### 🌐 Socials
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://www.github.com/NayanAnsh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/nayan-ansh-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/NayanAnsh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nayan-ansh-singh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NayanAnsh"><img src="https://github-readme-stats.vercel.app/api?username=NayanAnsh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NayanAnsh's GitHub stats" /></a>
-
-<a href="http://www.github.com/NayanAnsh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NayanAnsh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
